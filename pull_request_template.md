@@ -6,5 +6,5 @@ __Reference Ticket(s):__
 
 __Changes Made:__
 1. A change you made.
-	- Brief explanation(if requied).
+	- Brief explanation(if required).
 2. A change you made.
